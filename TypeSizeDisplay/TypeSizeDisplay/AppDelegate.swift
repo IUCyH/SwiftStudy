@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ClosureCalculater
+//  TypeSizeDisplay
 //
-//  Created by 홍재민 on 6/18/24.
+//  Created by 홍재민 on 6/24/24.
 //
 
 import UIKit

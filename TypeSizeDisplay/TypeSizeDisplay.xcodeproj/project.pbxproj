@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FEBFDC672C2176C200571E8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFDC662C2176C200571E8E /* AppDelegate.swift */; };
-		FEBFDC692C2176C200571E8E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFDC682C2176C200571E8E /* SceneDelegate.swift */; };
-		FEBFDC6B2C2176C200571E8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFDC6A2C2176C200571E8E /* ViewController.swift */; };
-		FEBFDC6E2C2176C200571E8E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FEBFDC6D2C2176C200571E8E /* Base */; };
-		FEBFDC702C2176C300571E8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEBFDC6F2C2176C300571E8E /* Assets.xcassets */; };
-		FEBFDC732C2176C300571E8E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FEBFDC722C2176C300571E8E /* Base */; };
+		FE3DF79B2C29840300ABCE78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE3DF79A2C29840300ABCE78 /* AppDelegate.swift */; };
+		FE3DF79D2C29840300ABCE78 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE3DF79C2C29840300ABCE78 /* SceneDelegate.swift */; };
+		FE3DF79F2C29840300ABCE78 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE3DF79E2C29840300ABCE78 /* ViewController.swift */; };
+		FE3DF7A22C29840300ABCE78 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FE3DF7A12C29840300ABCE78 /* Base */; };
+		FE3DF7A42C29840300ABCE78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE3DF7A32C29840300ABCE78 /* Assets.xcassets */; };
+		FE3DF7A72C29840300ABCE78 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FE3DF7A62C29840300ABCE78 /* Base */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FEBFDC632C2176C200571E8E /* ClosureCalculater.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClosureCalculater.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FEBFDC662C2176C200571E8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FEBFDC682C2176C200571E8E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FEBFDC6A2C2176C200571E8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FEBFDC6D2C2176C200571E8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FEBFDC6F2C2176C300571E8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FEBFDC722C2176C300571E8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FEBFDC742C2176C300571E8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE3DF7972C29840300ABCE78 /* TypeSizeDisplay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TypeSizeDisplay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE3DF79A2C29840300ABCE78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FE3DF79C2C29840300ABCE78 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FE3DF79E2C29840300ABCE78 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FE3DF7A12C29840300ABCE78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FE3DF7A32C29840300ABCE78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FE3DF7A62C29840300ABCE78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FE3DF7A82C29840300ABCE78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FEBFDC602C2176C200571E8E /* Frameworks */ = {
+		FE3DF7942C29840300ABCE78 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FEBFDC5A2C2176C200571E8E = {
+		FE3DF78E2C29840300ABCE78 = {
 			isa = PBXGroup;
 			children = (
-				FEBFDC652C2176C200571E8E /* ClosureCalculater */,
-				FEBFDC642C2176C200571E8E /* Products */,
+				FE3DF7992C29840300ABCE78 /* TypeSizeDisplay */,
+				FE3DF7982C29840300ABCE78 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FEBFDC642C2176C200571E8E /* Products */ = {
+		FE3DF7982C29840300ABCE78 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FEBFDC632C2176C200571E8E /* ClosureCalculater.app */,
+				FE3DF7972C29840300ABCE78 /* TypeSizeDisplay.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FEBFDC652C2176C200571E8E /* ClosureCalculater */ = {
+		FE3DF7992C29840300ABCE78 /* TypeSizeDisplay */ = {
 			isa = PBXGroup;
 			children = (
-				FEBFDC662C2176C200571E8E /* AppDelegate.swift */,
-				FEBFDC682C2176C200571E8E /* SceneDelegate.swift */,
-				FEBFDC6A2C2176C200571E8E /* ViewController.swift */,
-				FEBFDC6C2C2176C200571E8E /* Main.storyboard */,
-				FEBFDC6F2C2176C300571E8E /* Assets.xcassets */,
-				FEBFDC712C2176C300571E8E /* LaunchScreen.storyboard */,
-				FEBFDC742C2176C300571E8E /* Info.plist */,
+				FE3DF79A2C29840300ABCE78 /* AppDelegate.swift */,
+				FE3DF79C2C29840300ABCE78 /* SceneDelegate.swift */,
+				FE3DF79E2C29840300ABCE78 /* ViewController.swift */,
+				FE3DF7A02C29840300ABCE78 /* Main.storyboard */,
+				FE3DF7A32C29840300ABCE78 /* Assets.xcassets */,
+				FE3DF7A52C29840300ABCE78 /* LaunchScreen.storyboard */,
+				FE3DF7A82C29840300ABCE78 /* Info.plist */,
 			);
-			path = ClosureCalculater;
+			path = TypeSizeDisplay;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FEBFDC622C2176C200571E8E /* ClosureCalculater */ = {
+		FE3DF7962C29840300ABCE78 /* TypeSizeDisplay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FEBFDC772C2176C300571E8E /* Build configuration list for PBXNativeTarget "ClosureCalculater" */;
+			buildConfigurationList = FE3DF7AB2C29840300ABCE78 /* Build configuration list for PBXNativeTarget "TypeSizeDisplay" */;
 			buildPhases = (
-				FEBFDC5F2C2176C200571E8E /* Sources */,
-				FEBFDC602C2176C200571E8E /* Frameworks */,
-				FEBFDC612C2176C200571E8E /* Resources */,
+				FE3DF7932C29840300ABCE78 /* Sources */,
+				FE3DF7942C29840300ABCE78 /* Frameworks */,
+				FE3DF7952C29840300ABCE78 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ClosureCalculater;
-			productName = ClosureCalculater;
-			productReference = FEBFDC632C2176C200571E8E /* ClosureCalculater.app */;
+			name = TypeSizeDisplay;
+			productName = TypeSizeDisplay;
+			productReference = FE3DF7972C29840300ABCE78 /* TypeSizeDisplay.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FEBFDC5B2C2176C200571E8E /* Project object */ = {
+		FE3DF78F2C29840300ABCE78 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					FEBFDC622C2176C200571E8E = {
+					FE3DF7962C29840300ABCE78 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = FEBFDC5E2C2176C200571E8E /* Build configuration list for PBXProject "ClosureCalculater" */;
+			buildConfigurationList = FE3DF7922C29840300ABCE78 /* Build configuration list for PBXProject "TypeSizeDisplay" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FEBFDC5A2C2176C200571E8E;
-			productRefGroup = FEBFDC642C2176C200571E8E /* Products */;
+			mainGroup = FE3DF78E2C29840300ABCE78;
+			productRefGroup = FE3DF7982C29840300ABCE78 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FEBFDC622C2176C200571E8E /* ClosureCalculater */,
+				FE3DF7962C29840300ABCE78 /* TypeSizeDisplay */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FEBFDC612C2176C200571E8E /* Resources */ = {
+		FE3DF7952C29840300ABCE78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEBFDC702C2176C300571E8E /* Assets.xcassets in Resources */,
-				FEBFDC732C2176C300571E8E /* Base in Resources */,
-				FEBFDC6E2C2176C200571E8E /* Base in Resources */,
+				FE3DF7A42C29840300ABCE78 /* Assets.xcassets in Resources */,
+				FE3DF7A72C29840300ABCE78 /* Base in Resources */,
+				FE3DF7A22C29840300ABCE78 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FEBFDC5F2C2176C200571E8E /* Sources */ = {
+		FE3DF7932C29840300ABCE78 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEBFDC6B2C2176C200571E8E /* ViewController.swift in Sources */,
-				FEBFDC672C2176C200571E8E /* AppDelegate.swift in Sources */,
-				FEBFDC692C2176C200571E8E /* SceneDelegate.swift in Sources */,
+				FE3DF79F2C29840300ABCE78 /* ViewController.swift in Sources */,
+				FE3DF79B2C29840300ABCE78 /* AppDelegate.swift in Sources */,
+				FE3DF79D2C29840300ABCE78 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FEBFDC6C2C2176C200571E8E /* Main.storyboard */ = {
+		FE3DF7A02C29840300ABCE78 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FEBFDC6D2C2176C200571E8E /* Base */,
+				FE3DF7A12C29840300ABCE78 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FEBFDC712C2176C300571E8E /* LaunchScreen.storyboard */ = {
+		FE3DF7A52C29840300ABCE78 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FEBFDC722C2176C300571E8E /* Base */,
+				FE3DF7A62C29840300ABCE78 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FEBFDC752C2176C300571E8E /* Debug */ = {
+		FE3DF7A92C29840300ABCE78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +229,7 @@
 			};
 			name = Debug;
 		};
-		FEBFDC762C2176C300571E8E /* Release */ = {
+		FE3DF7AA2C29840300ABCE78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,7 +285,7 @@
 			};
 			name = Release;
 		};
-		FEBFDC782C2176C300571E8E /* Debug */ = {
+		FE3DF7AC2C29840300ABCE78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClosureCalculater/Info.plist;
+				INFOPLIST_FILE = TypeSizeDisplay/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -304,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iucyh.ClosureCalculater;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iucyh.TypeSizeDisplay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -316,7 +316,7 @@
 			};
 			name = Debug;
 		};
-		FEBFDC792C2176C300571E8E /* Release */ = {
+		FE3DF7AD2C29840300ABCE78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -324,7 +324,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClosureCalculater/Info.plist;
+				INFOPLIST_FILE = TypeSizeDisplay/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -335,7 +335,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.iucyh.ClosureCalculater;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iucyh.TypeSizeDisplay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -350,25 +350,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FEBFDC5E2C2176C200571E8E /* Build configuration list for PBXProject "ClosureCalculater" */ = {
+		FE3DF7922C29840300ABCE78 /* Build configuration list for PBXProject "TypeSizeDisplay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FEBFDC752C2176C300571E8E /* Debug */,
-				FEBFDC762C2176C300571E8E /* Release */,
+				FE3DF7A92C29840300ABCE78 /* Debug */,
+				FE3DF7AA2C29840300ABCE78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FEBFDC772C2176C300571E8E /* Build configuration list for PBXNativeTarget "ClosureCalculater" */ = {
+		FE3DF7AB2C29840300ABCE78 /* Build configuration list for PBXNativeTarget "TypeSizeDisplay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FEBFDC782C2176C300571E8E /* Debug */,
-				FEBFDC792C2176C300571E8E /* Release */,
+				FE3DF7AC2C29840300ABCE78 /* Debug */,
+				FE3DF7AD2C29840300ABCE78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FEBFDC5B2C2176C200571E8E /* Project object */;
+	rootObject = FE3DF78F2C29840300ABCE78 /* Project object */;
 }
